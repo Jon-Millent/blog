@@ -6,8 +6,10 @@
 
 ### 1. 同一个页面被多次打开所引发的问题
 首先是有这么一个需求，从 `主页` -> `我的关注` -> `别人的主页`， `主页` 这个模块被打开了两次
-![tim 20180906170054](https://raw.githubusercontent.com/Jon-Millent/blog/master/images/issue1/TIM%E6%88%AA%E5%9B%BE20180906170054.png)
-我拍拍胸脯对产品说：没问题！
+![tim 20180906170054](https://raw.githubusercontent.com/Jon-Millent/blog/master/images/issue1/TIM%E6%88%AA%E5%9B%BE20180906170054.png)  
+
+我拍拍胸脯对产品说：没问题！  
+
 ![5b7642e297f95b96f760e1ebd1a5fe8](https://raw.githubusercontent.com/Jon-Millent/blog/master/images/issue1/5b7642e297f95b96f760e1ebd1a5fe8.jpg)
 
 这个需求是没毛病的，就是当我们从 `别人的主页` -> `我的关注` -> `主页` 的时候，我的信息变成了我刚刚打开的那个人的信息，这TM...  
