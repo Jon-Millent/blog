@@ -34,7 +34,8 @@
 
 **开发者相关**  
 
-* 控制台自动提示更智能，还没敲回车结果就已经提示
+* 控制台自动提示更智能，还没敲回车结果就已经提示  
+
     ![20180907115249](https://raw.githubusercontent.com/Jon-Millent/blog/master/images/issue2/20180907130713.png)  
     
     ![20180907115249](https://raw.githubusercontent.com/Jon-Millent/blog/master/images/issue2/20180907130747.png)
