@@ -131,7 +131,7 @@ app.$mount()
 ```html
 <div class="cat-scroll">
     <scroll-view style="height: 100%; width: 100%">
-    </<scroll-view>
+    </scroll-view>
 </div>
 ```
 
