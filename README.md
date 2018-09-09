@@ -18,3 +18,6 @@ VeryDog
   <img src="https://raw.githubusercontent.com/Jon-Millent/blog/master/images/main/weixin.png">
 </div>
 
+### 说明
+* 文章均由本人原创，转载请注明出处。
+* 本`logo`由本人设计制作，版权归本人所有。
