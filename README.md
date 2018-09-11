@@ -7,6 +7,12 @@
 VeryDog
 </h1>
 
+<p align="center">
+  <a href="https://opensource.org/licenses/mit-license.php">
+    <img src="https://badges.frapsoft.com/os/gpl/gpl.svg?v=103">
+  </a>
+</p>
+
 <h4 align="center">
 个人博客&微信公众号，推送更新一些鄙人的经验心得。 
 </h4>
